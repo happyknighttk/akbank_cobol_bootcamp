@@ -17,8 +17,8 @@
 //* Çıktıyı SYSOUT'a yönlendiriyorum.
 //SORTIN   DD *
 0003TOLGA          KAYIS          19971208
-0002ISMAIL         KAYIS          19650603
-0001ELIF           KAYIS          19690820
+0002******         KAYIS          ********
+0001****           KAYIS          ********
 //SORTOUT DD DSN=Z95619.QSAM.AA,
 //* SORTIN ile veri girişini yapıyorum.
 //* SORTOUT ile çıkış verileri belirtiliyor.(QSAM.AA veri seti).
