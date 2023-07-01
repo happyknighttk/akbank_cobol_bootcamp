@@ -37,9 +37,9 @@
        01  WS-WORKSHOP.
            03 ST-INPUT-FILE        PIC 9(02).
               88 INPFILE-EOF                 VALUE 10.
-              88 INPFILE-SUCCES              VALUE 00 97.
+              88 INPFILE-SUCCESS              VALUE 00 97.
            03 ST-OUTPUT-FILE       PIC 9(02).
-              88 OUTPFILE-SUCCES             VALUE 00 97.
+              88 OUTPFILE-SUCCESS             VALUE 00 97.
            03 BDAY-INT             PIC 9(07).
            03 TDAY-INT             PIC 9(07).
       *
