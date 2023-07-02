@@ -20,7 +20,7 @@ In this repo, there are assignments given in Akbank COBOL Bootcamp.
 - Reading data from the dataset and writing to a file.
 - Querying whether the files are opened, the application continues accordingly.
 - Calculating how many days the people have lived from the day they were born.
-- ### Instructions for Assignment 3
+### Instructions for Assignment 3
 - First clean the 'qsam' files.
 - Before starting, enter the data you want into the 'CREATE1J' and 'CREATE3J' files.
 - Then run 'CREATE1J', 'CREATE2J', 'CREATE3J' jcl files in order.
